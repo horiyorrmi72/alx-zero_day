@@ -1,1 +1,0 @@
-`this is the Hello Ubuntu test folder`
